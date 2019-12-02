@@ -5,4 +5,4 @@ This is a portable copy of the documention (schematics, specifications, datashee
 
 https://wiki.pine64.org/index.php/Pinebook_Pro
 
-The documentation is contained within separate directories and includes an index.html file for easy navigation. Click on the Releases tab to find and download the tar archive. Download it and extract it locally.
+The documentation is contained within separate directories and includes an index.html file for easy navigation. Click on the release link above to find and download the tar archive. Download it and extract it locally.
